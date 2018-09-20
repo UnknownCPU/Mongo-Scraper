@@ -1,0 +1,13 @@
+.edit-article:hover {
+    color: hsl(189, 71%, 48%);
+  }
+  
+  .delete-article:hover {
+    color: hsl(167, 99%, 61%);
+  }
+  
+  
+  .edit-article:hover,
+  .delete-article:hover {
+    cursor: pointer;
+  }
